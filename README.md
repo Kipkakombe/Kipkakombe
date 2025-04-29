@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kipkakombe
 - 👀 I’m interested in artificial intelligence and cyber security
 - 🌱 I’m currently learning python for machine learning
-- 💞️ I’m looking to collaborate on any project that incolves AI cyber security and C language
+- 💞️ I’m looking to collaborate on any project that involves AI cyber security and C language
 - 📫 How to reach me ... @kipkakombe on instagram, reddit, tumblr and discord.
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ... I love the colour orange😭😭😭
